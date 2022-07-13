@@ -5,7 +5,7 @@ This repository is mainly for projects in data analysis.
  As a data analyst I learn to clean and organize data, uncover patterns and insights, draw meaningful conclusions, and clearly communicate critical findings. I am developing proficiency in Python and its data analysis libraries (Numpy, pandas, Matplotlib,seaborn), SQL and Tabluea as I build a portfolio of projects .
 
 
-## Part 1 - Intro to Data Analysis
+## Part 1 - Data Analysis using python
 
 ### Subjects Covered:
 
@@ -16,10 +16,10 @@ NumPy for 1 and 2D Data
 Pandas Series and Dataframes
 
 
-## Project 1: Explore Weather Trends with weather forecast data
+### Project 1: Explore Weather Trends with weather forecast data
 In this project, I choose one datasets and investigate it using NumPy and pandas. I complete the entire data analysis process, starting by posing a question and finishing by sharing the findings. ( It may be better to place this section inside the readme of the project 1)
 
-## Project 2: EDA on Netflix data set
+### Project 2: EDA on Covid-19 data set
 I was provided a dataset reflecting data collected from an netflix. I used  questions about the data and report my conclusions and recommendations in a report.
 
 
@@ -40,3 +40,14 @@ Identify data quality issues and categorize them using metrics: validity, accura
 Identify each step of the data cleaning process (defining, coding,and testing)
 Clean data using Python and pandas
 Test cleaning code visually and programmatically using Pytho
+
+### Project 3 : Data Wrangle and Analyze with Zomato data
+Collect data from  source and assess data using different libraries and programmatically clean data for visulizing data and finding insights later.
+
+### Project 4 : Data Wrangle and Analyze with Netflix data
+Collect data from different sources and assess data visually and programmatically , clean data for visulizing data and finding insights later.
+
+
+## Part 1 - Data Analysis using SQL
+
+### Project 5 : Data analysis with mavenmovies data
