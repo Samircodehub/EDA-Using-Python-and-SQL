@@ -18,3 +18,6 @@ Pandas Series and Dataframes
 
 ## Project 1: Explore Weather Trends with weather forecast data
 In this project, I choose one datasets and investigate it using NumPy and pandas. I complete the entire data analysis process, starting by posing a question and finishing by sharing the findings. ( It may be better to place this section inside the readme of the project 1)
+
+## Project 2: EDA on Netflix data set
+I was provided a dataset reflecting data collected from an netflix. I used  questions about the data and report my conclusions and recommendations in a report.
