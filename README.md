@@ -24,7 +24,7 @@ I was provided a dataset reflecting data collected from an netflix. I used  ques
 
 
 
-## Part 2 - Data Extraction and Wrangling
+##  Data Extraction and Wrangling using Python
 
 Subjects Covered:
 
@@ -53,3 +53,10 @@ Collect data from different sources and assess data visually and programmaticall
 ## Part 2 - Data Analysis using SQL
 
 ### Project 5 : Data analysis with mavenmovies data
+
+### Project 6 : Data analysis with sales dataset
+
+## Part 3 - Data visualisation using Tabluea
+
+###
+
