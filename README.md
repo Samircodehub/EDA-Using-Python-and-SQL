@@ -48,6 +48,8 @@ Collect data from  source and assess data using different libraries and programm
 Collect data from different sources and assess data visually and programmatically , clean data for visulizing data and finding insights later.
 
 
-## Part 1 - Data Analysis using SQL
+
+
+## Part 2 - Data Analysis using SQL
 
 ### Project 5 : Data analysis with mavenmovies data
