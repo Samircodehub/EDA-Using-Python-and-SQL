@@ -59,5 +59,13 @@ Collect data from different sources and assess data visually and programmaticall
 
 ## Part 3 - Data visualisation using Tabluea
 
-### 
-https://www.youtube.com/watch?v=M8ra1n2oiTY
+#### Subjects Covered:
+
+## Project 7 : Park City Peaks Hotel
+
+Park City Peaks Hotel provides hotel accommodation to tourists and business travellers.
+At the moment, the hotel manager can get an excel spreadsheet that he downloads from the Hotel Booking system. He has given us the spreadsheet and would like to see the following:
+Bookings and Cancellations the hotel gets in a monthly basis 
+Repeated Guests Statistics 
+The food option guests generally chooses 
+Do they get singular travellers or family bookings on average?
