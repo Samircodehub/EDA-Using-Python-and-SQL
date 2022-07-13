@@ -50,16 +50,16 @@ Collect data from different sources and assess data visually and programmaticall
 
 
 
-# Part 2 - Data Analysis using SQL
+## Part 2 - Data Analysis using SQL
 
 ### Project 5 : Data analysis with mavenmovies data
 
 ### Project 6 : Data analysis with sales dataset
 
 
-# Part 3 - Data visualisation using Tabluea
+## Part 3 - Data visualisation using Tabluea
 
-## Project 7 : Park City Peaks Hotel
+### Project 7 : Park City Peaks Hotel
 
 Park City Peaks Hotel provides hotel accommodation to tourists and business travellers.
 At the moment, the hotel manager can get an excel spreadsheet that he downloads from the Hotel Booking system. He has given us the spreadsheet and would like to see the following:
@@ -67,3 +67,19 @@ Bookings and Cancellations the hotel gets in a monthly basis
 Repeated Guests Statistics 
 The food option guests generally chooses 
 Do they get singular travellers or family bookings on average?
+
+
+### Project 8 : Greatfit Dashbord
+
+Greatfit is an online e-commerce store that sells ladies clothing. They make a lot of sales through various platforms. Customers generally leave reviews and Greatfit hasn't been doing any analytics and investigation in the reviews. The Customer Service manager has asked you to develop a dashboard to give her an idea of how the reviews are. She wants the following 1.Do they get a lot of negative/positive reviews? 2.Analysis on the reviews by division 3.Do people recommend their products? 4.Do reviews mention anything about returning items?
+
+### Project 9 : Olist 
+
+Olist is an online e-commerce store which sells and delivers items all over Brazil. The Logistics Manager, doesn't receive any reporting and works off a few spreadsheets. He is responsible for optimizing the purchase and delivery process. He explains below what this consists: When a customer orders from us, they make a purchase online. We then deliver all the orders. It is important for us to deliver orders within the estimated delivery date we have given to the customer otherwise the customers complain if their order is late. I want to have a line of sight of orders that have not been delivered yet.
+
+Using this information, he would like the following on a monthly basis: 
+Total Orders per Month 
+Number of orders delivered after the estimated delivery date given to the customer 
+Orders outstanding delivery
+
+
