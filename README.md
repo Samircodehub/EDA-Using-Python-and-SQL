@@ -59,8 +59,6 @@ Collect data from different sources and assess data visually and programmaticall
 
 ## Part 3 - Data visualisation using Tabluea
 
-#### Subjects Covered:
-
 ## Project 7 : Park City Peaks Hotel
 
 Park City Peaks Hotel provides hotel accommodation to tourists and business travellers.
