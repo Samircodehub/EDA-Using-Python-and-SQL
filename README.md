@@ -18,6 +18,7 @@ Pandas Series and Dataframes
 
 ### Project 1: Explore Weather Trends with weather forecast data
 ![images](https://user-images.githubusercontent.com/108605935/179167611-85e978ab-38f4-44f9-b876-ea868d9a1d3b.jpg)
+
 In this project, I choose one datasets and investigate it using NumPy and pandas. I complete the entire data analysis process, starting by posing a question and finishing by sharing the findings. ( It may be better to place this section inside the readme of the project 1)
 
 ### Project 2: EDA on Covid-19 data set
