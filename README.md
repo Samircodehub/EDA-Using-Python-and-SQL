@@ -78,6 +78,7 @@ Do they get singular travellers or family bookings on average?
 
 
 ### Project 8 : Greatfit Dashbord
+![GREATFIT+LOGO](https://user-images.githubusercontent.com/108605935/179174342-3c1ce1a9-a8b9-407e-9164-f2135d8bd168.png)
 
 Greatfit is an online e-commerce store that sells ladies clothing. They make a lot of sales through various platforms. Customers generally leave reviews and Greatfit hasn't been doing any analytics and investigation in the reviews. The Customer Service manager has asked you to develop a dashboard to give her an idea of how the reviews are. She wants the following 1.Do they get a lot of negative/positive reviews? 2.Analysis on the reviews by division 3.Do people recommend their products? 4.Do reviews mention anything about returning items?
 
