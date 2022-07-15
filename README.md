@@ -83,6 +83,7 @@ Do they get singular travellers or family bookings on average?
 Greatfit is an online e-commerce store that sells ladies clothing. They make a lot of sales through various platforms. Customers generally leave reviews and Greatfit hasn't been doing any analytics and investigation in the reviews. The Customer Service manager has asked you to develop a dashboard to give her an idea of how the reviews are. She wants the following 1.Do they get a lot of negative/positive reviews? 2.Analysis on the reviews by division 3.Do people recommend their products? 4.Do reviews mention anything about returning items?
 
 ### Project 9 : Olist 
+![OLIST+LOGO (1)](https://user-images.githubusercontent.com/108605935/179174898-99b8b33d-bccc-47c6-bdba-9f44d124d71a.jpeg)
 
 Olist is an online e-commerce store which sells and delivers items all over Brazil. The Logistics Manager, doesn't receive any reporting and works off a few spreadsheets. He is responsible for optimizing the purchase and delivery process. He explains below what this consists: When a customer orders from us, they make a purchase online. We then deliver all the orders. It is important for us to deliver orders within the estimated delivery date we have given to the customer otherwise the customers complain if their order is late. I want to have a line of sight of orders that have not been delivered yet.
 
