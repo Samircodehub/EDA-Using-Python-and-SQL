@@ -66,7 +66,8 @@ Collect data from different sources and assess data visually and programmaticall
 
 ## Part 3 - Data visualisation using Tabluea
 
-### Project 7 : Park City Peaks Hotel  ![Park+City+Peaks+Hotel LOGO](https://user-images.githubusercontent.com/108605935/179173778-6a102840-db89-4032-94e9-7dcf6af1e706.jpeg)
+### Project 7 : Park City Peaks Hotel  
+![Park+City+Peaks+Hotel LOGO](https://user-images.githubusercontent.com/108605935/179173778-6a102840-db89-4032-94e9-7dcf6af1e706.jpeg)
 
 Park City Peaks Hotel provides hotel accommodation to tourists and business travellers.
 At the moment, the hotel manager can get an excel spreadsheet that he downloads from the Hotel Booking system. He has given us the spreadsheet and would like to see the following:
