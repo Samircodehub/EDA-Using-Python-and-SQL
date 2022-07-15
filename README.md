@@ -47,6 +47,8 @@ Clean data using Python and pandas
 Test cleaning code visually and programmatically using Pytho
 
 ### Project 3 : Data Wrangle and Analyze with Zomato data
+![download (1)](https://user-images.githubusercontent.com/108605935/179172249-deeea510-97ca-467c-af0b-595db1529dfb.jpg)
+
 Collect data from  source and assess data using different libraries and programmatically clean data for visulizing data and finding insights later.
 
 ### Project 4 : Data Wrangle and Analyze with Netflix data
