@@ -66,7 +66,7 @@ Collect data from different sources and assess data visually and programmaticall
 
 ## Part 3 - Data visualisation using Tabluea
 
-### Project 7 : Park City Peaks Hotel  
+### Project 7 : Park City Peaks Hotel  Dashboard for Data Analysis
 ![Park+City+Peaks+Hotel LOGO](https://user-images.githubusercontent.com/108605935/179173778-6a102840-db89-4032-94e9-7dcf6af1e706.jpeg)
 
 Park City Peaks Hotel provides hotel accommodation to tourists and business travellers.
@@ -77,12 +77,12 @@ The food option guests generally chooses
 Do they get singular travellers or family bookings on average?
 
 
-### Project 8 : Greatfit Dashbord
+### Project 8 : Greatfit Dashbord for Data Analysis
 ![GREATFIT+LOGO](https://user-images.githubusercontent.com/108605935/179174342-3c1ce1a9-a8b9-407e-9164-f2135d8bd168.png)
 
 Greatfit is an online e-commerce store that sells ladies clothing. They make a lot of sales through various platforms. Customers generally leave reviews and Greatfit hasn't been doing any analytics and investigation in the reviews. The Customer Service manager has asked you to develop a dashboard to give her an idea of how the reviews are. She wants the following 1.Do they get a lot of negative/positive reviews? 2.Analysis on the reviews by division 3.Do people recommend their products? 4.Do reviews mention anything about returning items?
 
-### Project 9 : Olist 
+### Project 9 : Olist Store Dashboard for Data Analysis
 ![OLIST+LOGO (1)](https://user-images.githubusercontent.com/108605935/179174898-99b8b33d-bccc-47c6-bdba-9f44d124d71a.jpeg)
 
 Olist is an online e-commerce store which sells and delivers items all over Brazil. The Logistics Manager, doesn't receive any reporting and works off a few spreadsheets. He is responsible for optimizing the purchase and delivery process. He explains below what this consists: When a customer orders from us, they make a purchase online. We then deliver all the orders. It is important for us to deliver orders within the estimated delivery date we have given to the customer otherwise the customers complain if their order is late. I want to have a line of sight of orders that have not been delivered yet.
