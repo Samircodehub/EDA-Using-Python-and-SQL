@@ -52,6 +52,8 @@ Test cleaning code visually and programmatically using Pytho
 Collect data from  source and assess data using different libraries and programmatically clean data for visulizing data and finding insights later.
 
 ### Project 4 : Data Wrangle and Analyze with Netflix data
+![download 1](https://user-images.githubusercontent.com/108605935/179175920-cc814ea6-4eed-4844-ba25-b030347f571c.png)
+
 Collect data from different sources and assess data visually and programmatically , clean data for visulizing data and finding insights later.
 
 
