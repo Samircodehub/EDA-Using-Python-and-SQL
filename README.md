@@ -2,7 +2,7 @@
 
 This repository is mainly for projects in data analysis.
 
- As a data analyst I learn to clean and organize data, uncover patterns and insights, draw meaningful conclusions, and clearly communicate critical findings. I am developing proficiency in Python and its data analysis libraries (Numpy, pandas, Matplotlib,seaborn), SQL and Tabluea as I build a portfolio of projects .
+ As a data analyst I learn to clean and organize data, uncover patterns and insights, draw meaningful conclusions, and clearly communicate critical findings. I am developing proficiency in Python and its data analysis libraries (Numpy, pandas, Matplotlib,seaborn), SQL and tableau as I build a portfolio of projects .
 
 
 ## Part 1 - Data Analysis using python
@@ -62,7 +62,7 @@ Collect data from different sources and assess data visually and programmaticall
 ### Project 6 : Data analysis with sales dataset
 
 
-## Part 3 - Data visualisation using Tabluea
+## Part 3 - Data visualisation using tableau
 
 ### Project 7 : Park City Peaks Hotel  Dashboard for Data Analysis
 ![Park+City+Peaks+Hotel LOGO](https://user-images.githubusercontent.com/108605935/179173778-6a102840-db89-4032-94e9-7dcf6af1e706.jpeg)
