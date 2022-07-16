@@ -22,7 +22,7 @@ Pandas Series and Dataframes
 In this project, I choose one datasets and investigate it using NumPy and pandas. I complete the entire data analysis process, starting by posing a question and finishing by sharing the findings. ( It may be better to place this section inside the readme of the project 1)
 
 ### Project 2: EDA on Covid-19 data set
-![download](https://user-images.githubusercontent.com/108605935/179171500-bcc17765-d67e-421e-bc70-cbdb62c22c26.jpg
+![download](https://user-images.githubusercontent.com/108605935/179171500-bcc17765-d67e-421e-bc70-cbdb62c22c26.jpg)
 
 
 ##  Data Extraction and Wrangling using Python
