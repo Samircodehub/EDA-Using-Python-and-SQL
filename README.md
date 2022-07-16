@@ -21,7 +21,7 @@ Pandas Series and Dataframes
 
 In this project, I choose one datasets and investigate it using NumPy and pandas. I complete the entire data analysis process, starting by posing a question and finishing by sharing the findings. ( It may be better to place this section inside the readme of the project 1)
 
-### Project 2: EDA on Covid-19 data set
+### Project 2: Data Analysis and Visualization for Covid-19 data set
 ![download](https://user-images.githubusercontent.com/108605935/179171500-bcc17765-d67e-421e-bc70-cbdb62c22c26.jpg)
 
 
@@ -62,7 +62,7 @@ Collect data from different sources and assess data visually and programmaticall
 ### Project 6 : Data analysis with sales dataset
 
 
-## Part 3 - Data visualisation using tableau
+## Part 3 - Data visualization using tableau
 
 ### Project 7 : Park City Peaks Hotel  Dashboard for Data Analysis
 ![Park+City+Peaks+Hotel LOGO](https://user-images.githubusercontent.com/108605935/179173778-6a102840-db89-4032-94e9-7dcf6af1e706.jpeg)
