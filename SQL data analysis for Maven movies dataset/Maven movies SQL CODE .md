@@ -17,7 +17,7 @@
 * GROUP BY rental_rate;
 
 #### /* Which rating do we have the most films in? */
-* SELECT rating,COUNT(*) AS total_number_of_movies
+* SELECT rating,COUNT(*) AS Number of Ratings
 * FROM film
 * GROUP BY rating ;
 
