@@ -90,4 +90,9 @@ Total Orders per Month
 Number of orders delivered after the estimated delivery date given to the customer 
 Orders outstanding delivery
 
+Useful Artical links:
+https://www.bluegranite.com/blog/simple-linear-regression-in-power-bi 
+
+
+
 
