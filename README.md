@@ -93,6 +93,7 @@ Orders outstanding delivery
 Useful Artical links:
 https://www.bluegranite.com/blog/simple-linear-regression-in-power-bi
 https://github.com/TheJokeRxDC/Indian-General-Elections-2019-Data-Analysis-And-Predictions-Using-Machine-Learning
+https://coderzcolumn.com/tutorials/data-science/interactive-maps-choropleth-scattermap-using-folium
 
 
 
