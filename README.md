@@ -1,3 +1,18 @@
+### Perform EDA (Exploratory Data Analysis)
+###### The basic steps of EDA are:
+
+* Understand the dataset
+* Identifying the number of features or columns
+* Identifying the features or columns
+* Identify the size of the dataset
+* Identifying the data types of features
+* Checking if the dataset has empty cells
+* Identifying the number of empty cells by features or columns
+* Handling Missing Values and Outliers
+* Encoding Categorical variables
+* Graphical Univariate Analysis, Bivariate
+* Normalization and Scaling
+
 # Data-Analytics-Projects:
 
 This repository is mainly for projects in data analysis.
